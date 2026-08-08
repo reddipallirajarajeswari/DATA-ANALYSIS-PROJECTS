@@ -1,0 +1,106 @@
+Exploratory Data Analysis (EDA) Report
+
+Project 2: Titanic Data Analysis
+
+Dataset
+File Name: Titanic.csv
+
+
+1. Introduction
+
+The objective of this project is to analyze the Titanic dataset and understand the factors that influenced passenger survival.
+
+
+2. Data Overview
+
+The dataset contains information about Titanic passengers, including:
+
+* Passenger ID
+* Passenger Class
+* Name
+* Sex
+* Age
+* Number of Siblings/Spouses
+* Number of Parents/Children
+* Ticket
+* Fare
+* Cabin
+* Port of Embarkation
+* Survival Status
+
+
+3. Data Cleaning
+
+The dataset was checked for:
+
+* Missing values
+* Duplicate records
+* Incorrect data types
+* Inconsistent values
+
+Missing values were handled using suitable data cleaning techniques.
+
+
+4. Descriptive Statistics
+
+Statistical measures were calculated for numerical variables, including:
+
+* Mean
+* Median
+* Standard deviation
+* Minimum
+* Maximum
+* Quartiles
+
+These statistics help understand the distribution of passenger age, fare, and other numerical features.
+
+
+5. Exploratory Data Analysis
+
+The following analyses were performed:
+
+* Survival rate analysis
+* Gender-wise survival analysis
+* Passenger class-wise survival analysis
+* Age distribution
+* Fare distribution
+* Embarkation analysis
+* Relationship between age and survival
+* Relationship between fare and survival
+
+
+6. Data Visualization
+
+The following visualizations were created:
+
+* Survival Count Bar Chart
+* Gender-wise Survival Bar Chart
+* Passenger Class Survival Chart
+* Age Distribution Histogram
+* Fare Distribution Histogram
+* Age vs Fare Scatter Plot
+* Survival Distribution by Passenger Class
+* Correlation Heatmap
+
+
+7. Outlier Analysis
+
+Outliers were identified using box plots and the Interquartile Range (IQR) method.
+
+Numerical variables such as Age and Fare were analyzed for unusual values.
+
+
+8. Key Insights
+
+* Female passengers generally had a higher survival rate than male passengers.
+* Passengers in higher classes generally had better survival chances.
+* Passenger age was related to survival outcomes.
+* Fare showed differences between passenger groups.
+* Passenger class and gender were important factors in survival.
+
+
+9. Conclusion
+
+The Titanic Data Analysis project demonstrates how Python, Pandas, NumPy, Matplotlib, and Seaborn can be used for data cleaning, exploratory data analysis, statistical analysis, and visualization.
+
+The analysis helps identify important factors associated with passenger survival on the Titanic.

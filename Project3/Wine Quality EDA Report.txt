@@ -1,0 +1,116 @@
+Exploratory Data Analysis (EDA) Report
+
+Project 3: Wine Quality Analysis
+
+Dataset
+File Name: winequalityN.csv
+
+
+1. Introduction
+
+The objective of this project is to explore the Wine Quality dataset and identify the factors that affect wine quality.
+
+
+2. Data Overview
+
+The dataset contains information about different wine properties, including:
+
+* Wine type
+* Fixed acidity
+* Volatile acidity
+* Citric acid
+* Residual sugar
+* Chlorides
+* Free sulfur dioxide
+* Total sulfur dioxide
+* Density
+* pH
+* Sulphates
+* Alcohol
+* Quality
+
+
+3. Data Cleaning
+
+The dataset was checked for:
+
+* Missing values
+* Duplicate records
+* Incorrect data types
+* Inconsistent values
+
+Missing values and duplicate records were handled using appropriate data cleaning techniques.
+
+
+4. Descriptive Statistics
+
+The following statistical measures were calculated:
+
+* Mean
+* Median
+* Standard deviation
+* Minimum
+* Maximum
+* Quartiles
+
+These measures help understand the distribution of the numerical features.
+
+
+5. Exploratory Data Analysis
+
+The following analyses were performed:
+
+* Wine type distribution
+* Quality distribution
+* Alcohol analysis
+* Acidity analysis
+* Sugar analysis
+* pH analysis
+* Sulphates analysis
+* Relationship between alcohol and quality
+* Relationship between acidity and quality
+* Correlation between numerical features
+
+
+6. Data Visualization
+
+The following visualizations were created:
+
+* Wine Type Count Plot
+* Quality Distribution Bar Chart
+* Alcohol Distribution Histogram
+* pH Distribution Histogram
+* Box Plot for Quality
+* Alcohol vs Quality Plot
+* Acidity vs Quality Plot
+* Correlation Heatmap
+
+
+7. Outlier Analysis
+
+Outliers were identified using box plots and the Interquartile Range (IQR) method.
+
+Important numerical features such as alcohol, residual sugar, chlorides, sulphates, and acidity were checked for unusual values.
+
+
+8. Correlation Analysis
+
+A correlation matrix was created to understand relationships between numerical variables.
+
+Alcohol, acidity, sulphates, density, and other chemical properties were analyzed to understand their relationship with wine quality.
+
+
+9. Key Insights
+
+* Wine quality varies across different wine samples.
+* Alcohol content has an important relationship with wine quality.
+* Acidity-related features influence the quality of wine.
+* Some chemical properties show strong relationships with each other.
+* Higher-quality wines can have different chemical characteristics compared with lower-quality wines.
+
+
+10. Conclusion
+
+The Wine Quality Analysis project demonstrates how Python, Pandas, NumPy, Matplotlib, and Seaborn can be used for data cleaning, exploratory data analysis, statistical analysis, correlation analysis, and visualization.
+
+The analysis helps identify important chemical properties associated with wine quality.

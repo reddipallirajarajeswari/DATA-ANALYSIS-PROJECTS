@@ -1,0 +1,116 @@
+Exploratory Data Analysis (EDA) Report
+
+Project 4: Diamond Price Analysis
+
+Dataset
+File Name: diamonds.csv
+
+
+1. Introduction
+
+The objective of this project is to analyze the Diamond Price dataset and identify the major factors that influence diamond prices. The analysis includes data cleaning, descriptive statistics, exploratory data analysis, correlation analysis, outlier detection, and data visualization.
+
+
+2. Data Overview
+
+The dataset contains information about diamonds and their physical and quality characteristics.
+
+Important features include:
+
+* Carat
+* Cut
+* Color
+* Clarity
+* Depth
+* Table
+* Price
+* X
+* Y
+* Z
+
+The dataset contains both numerical and categorical variables.
+
+
+3. Data Cleaning
+
+The dataset was checked for:
+
+* Missing values
+* Duplicate records
+* Incorrect data types
+* Invalid values
+
+Missing values and duplicate records were handled appropriately before performing further analysis.
+
+
+4. Descriptive Statistics
+
+Statistical measures were calculated for numerical features, including:
+
+* Mean
+* Median
+* Standard deviation
+* Minimum
+* Maximum
+* Quartiles
+
+These measures help understand the distribution and variation of diamond characteristics.
+
+
+5. Exploratory Data Analysis
+
+EDA was performed to understand relationships between diamond characteristics and price.
+
+Important analyses include:
+
+* Price distribution
+* Carat distribution
+* Carat versus price
+* Cut versus price
+* Color versus price
+* Clarity versus price
+* Correlation between numerical variables
+
+
+6. Outlier Analysis
+
+Outliers were identified using the Interquartile Range (IQR) method and box plots.
+
+Extreme values were analyzed and treated where appropriate to improve the quality of the analysis.
+
+
+7. Correlation Analysis
+
+A correlation matrix and heatmap were created to identify relationships between numerical variables.
+
+Carat shows an important relationship with diamond price. Other numerical characteristics also contribute to price variation.
+
+
+8. Data Visualization
+
+The following visualizations were created:
+
+* Diamond Price Distribution – Histogram
+* Carat vs Price – Scatter Plot
+* Cut vs Price – Box Plot
+* Color vs Price – Box Plot
+* Clarity vs Price – Box Plot
+* Correlation Heatmap
+* Outlier Analysis – Box Plot
+
+
+9. Key Insights
+
+* Carat is one of the major factors affecting diamond price.
+* Larger diamonds generally have higher prices.
+* Cut, color, and clarity also influence diamond pricing.
+* The relationship between carat and price can be clearly observed through visualization.
+* Correlation analysis helps identify relationships between numerical features.
+* Outlier analysis helps identify unusually high or low observations.
+
+
+10. Conclusion
+
+The Diamond Price Analysis project demonstrates how data cleaning, statistical analysis, EDA, correlation analysis, outlier detection, and visualization can be used to understand diamond pricing.
+
+The analysis shows that diamond characteristics, especially carat and quality-related features, play an important role in determining price.

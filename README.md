@@ -116,7 +116,7 @@ Analyze how different diamond characteristics influence diamond prices.
 - Business insights
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
-**Google Colab** :
+**Google Colab** 
 https://colab.research.google.com/drive/1w0bd-Xr0QG2z_fQIS4Lyn0O19S6OdMZO?usp=sharing
 ---
 

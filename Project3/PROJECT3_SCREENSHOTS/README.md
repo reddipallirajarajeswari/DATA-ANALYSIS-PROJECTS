@@ -11,9 +11,7 @@ The screenshots include visualizations created during Exploratory Data Analysis 
 - Wine quality distribution
 - Alcohol and quality analysis
 - Volatile acidity analysis
-- Correlation analysis
-- Numerical feature distributions
-- Outlier analysis
+
 - Other data visualizations
 
 ### Purpose

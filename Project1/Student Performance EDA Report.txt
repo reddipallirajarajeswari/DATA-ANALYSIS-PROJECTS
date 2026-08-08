@@ -1,0 +1,111 @@
+Exploratory Data Analysis (EDA) Report
+
+Project 1: Student Performance Analysis
+
+Dataset
+File Name: student_data.csv
+
+
+1. Introduction
+
+The objective of this project is to analyze student academic performance and identify the factors that influence students' results. The analysis includes data cleaning, descriptive statistics, exploratory data analysis, data visualization, and identification of important patterns.
+
+
+2. Data Overview
+
+The dataset contains information related to:
+
+* Student demographics
+* Family background
+* School information
+* Study habits
+* Social activities
+* Health-related information
+* Attendance
+* Academic grades
+
+The dataset contains both numerical and categorical features.
+
+
+3. Data Cleaning
+
+The dataset was checked for:
+
+* Missing values
+* Duplicate records
+* Incorrect data types
+* Inconsistent values
+
+The data was cleaned before performing the analysis.
+
+
+4. Descriptive Statistics
+
+Statistical measures were calculated for numerical variables, including:
+
+* Mean
+* Median
+* Standard deviation
+* Minimum
+* Maximum
+* Quartiles
+
+These measures help understand student performance and the distribution of numerical variables.
+
+
+5. Exploratory Data Analysis
+
+EDA was performed to identify patterns and relationships in the student performance dataset.
+
+The analysis includes:
+
+* Distribution of student grades
+* Attendance analysis
+* Study time analysis
+* Relationship between study time and grades
+* Relationship between attendance and grades
+* Analysis of categorical features
+* Correlation analysis
+
+
+6. Data Visualization
+
+The following visualizations were created:
+
+* Grade Distribution – Histogram
+* Attendance Distribution – Histogram
+* Study Time vs Grade – Scatter Plot
+* Attendance vs Grade – Scatter Plot
+* Gender vs Performance – Bar Chart
+* Correlation Heatmap
+* Box Plots for numerical features
+
+
+7. Correlation Analysis
+
+A correlation matrix and heatmap were created to identify relationships between numerical variables.
+
+The analysis helps identify which factors have stronger relationships with student academic performance.
+
+
+8. Outlier Analysis
+
+Outliers were identified using box plots and the Interquartile Range (IQR) method.
+
+Unusual values were analyzed and treated where appropriate.
+
+
+9. Key Insights
+
+* Attendance can have an important relationship with academic performance.
+* Study habits can influence student grades.
+* Students with better study patterns may show better academic performance.
+* Correlation analysis helps identify important numerical relationships.
+* Data visualization makes student performance patterns easier to understand.
+
+
+10. Conclusion
+
+The Student Performance Analysis project demonstrates the use of Python and data analysis techniques to understand academic performance.
+
+Data cleaning, descriptive statistics, EDA, correlation analysis, outlier detection, and visualization were used to identify meaningful patterns and insights from the student dataset.

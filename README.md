@@ -52,7 +52,8 @@ Analyze student academic performance and identify important patterns in the data
 - Insight generation
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
-[**Google Colab** :](https://colab.research.google.com/drive/12AZHDUIFzbyabDi6GFE5p3uNzm0p5fzq?usp=sharing)
+**Google Colab** :
+https://colab.research.google.com/drive/12AZHDUIFzbyabDi6GFE5p3uNzm0p5fzq?usp=sharing
 
 
 ---
@@ -72,7 +73,8 @@ Analyze the Titanic dataset and understand passenger characteristics and surviva
 - Survival analysis
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
-[**Google Colab** :](https://colab.research.google.com/drive/1hwdBc_UbqjlMBz0gX1iIUivATrwhfHvV?usp=sharing)
+**Google Colab** :
+https://colab.research.google.com/drive/1hwdBc_UbqjlMBz0gX1iIUivATrwhfHvV?usp=sharing
 
 ---
 
@@ -92,7 +94,8 @@ Explore the factors that affect wine quality.
 - Quality-related insights
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
-[**Google Colab** :](https://colab.research.google.com/drive/1rDdfCaCwlbTU--yZTOCGbddhudvGTWOc?usp=sharing)
+**Google Colab** :
+https://colab.research.google.com/drive/1rDdfCaCwlbTU--yZTOCGbddhudvGTWOc?usp=sharing
 
 ---
 
@@ -113,7 +116,8 @@ Analyze how different diamond characteristics influence diamond prices.
 - Business insights
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
-[**Google Colab** :](https://colab.research.google.com/drive/1w0bd-Xr0QG2z_fQIS4Lyn0O19S6OdMZO?usp=sharing)
+**Google Colab** :
+https://colab.research.google.com/drive/1w0bd-Xr0QG2z_fQIS4Lyn0O19S6OdMZO?usp=sharing
 ---
 
 ### 🛒 Project 5 – Retail Sales Analysis
